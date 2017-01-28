@@ -1,5 +1,10 @@
+#  create file  .gitignore    inside file type
+
+
 .gitignore
 node_modules
+
+
 
 
 
